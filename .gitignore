@@ -1,0 +1,5 @@
+# Ignore combined_model.pth in the model directory
+model/combined_model.pth
+
+# Ignore combined_model.pth in the Tester/Model directory
+Tester/Model/combined_model.pth
