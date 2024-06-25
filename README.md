@@ -2,7 +2,7 @@
 
 This project is a web-based application designed to perform image classification using a deep learning model. Users can upload an image, which the system processes and classifies into predefined categories. The application leverages a combination of state-of-the-art deep learning models to ensure high accuracy and performance.
 
-For more details check here: [Research on SETI Data Using CNN Models with Transfer Learning](https://github.com/HR-Fahim/Research-on-SETI-Data-Using-CNN-Models-with-Transfer-Learning.git)
+For more details check here: [Research on SETI Data Using CNN Models with Transfer Learning.](https://github.com/HR-Fahim/Research-on-SETI-Data-Using-CNN-Models-with-Transfer-Learning.git)
 
 # Purpose
 
