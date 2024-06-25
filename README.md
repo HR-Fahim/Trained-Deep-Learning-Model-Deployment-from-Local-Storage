@@ -13,6 +13,10 @@ The purpose of this project is to provide a practical and user-friendly example 
 - **Real-Time Predictions**: Provides instant classification results upon image upload.
 - **Predefined Classes**: The application can classify images into several predefined categories (customizable based on the use case).
 
+# Screenshots
+
+![alt text](<Result on HTML.png>)
+
 # Special Aspects
 
 - **Model Combination**: Uses a unique combination of different deep learning models to enhance accuracy and performance.
